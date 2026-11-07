@@ -18,10 +18,10 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/google/go-cmp v0.5.5 // indirect
+	github.com/google/go-cmp v0.5.8 // indirect
 	github.com/googleapis/gax-go/v2 v2.0.5 // indirect
 	github.com/jstemmer/go-junit-report v0.9.1 // indirect
-	github.com/karrick/godirwalk v1.15.6 // indirect
+	github.com/karrick/godirwalk v1.17.0 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20180127040702-4e3ac2762d5f // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415 // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
